@@ -9727,8 +9727,6 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <approved hash="104,1,60.96,154.94,U1,AVDD,3.3V,,,"/>
 <approved hash="104,1,60.96,139.7,U1,VDD_USB,3.3V,,,"/>
 <approved hash="104,1,88.9,111.76,U1,DVDD,3.3V,,,"/>
-<approved hash="104,1,215.9,63.5,U2,VIN,5V,,,"/>
-<approved hash="104,1,231.14,66.04,U2,VOUT,3.3V,,,"/>
 </errors>
 </schematic>
 </drawing>
