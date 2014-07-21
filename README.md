@@ -15,7 +15,8 @@ This is a minimal beacon pcb for the BLE112 module
 | IC1 | LP2985 | 1 |  | LP 2985 IM5-3,3 | [Reichelt][reichelt] |
 | X1S | USB Jack | 1 |  | USB BWM SMD | [Reichelt][reichelt] |
 | JP3 | 2x5 1.27 | 1 |  | 649-202112100010C4LF | [Mouser][mouser] |
-| BT1 | Batteryholder | 1 | KZH 20SMD-2 | [Reichelt][reichelt] |
+| BT1 | Batteryholder | 1 |  | KZH 20SMD-2 | [Reichelt][reichelt] |
+| SW1 | Switch | 1 |  | 1P2T ON-ON type SMD mini slide switch | [Aliexpress][aliexpress] |
 
 
 [reichelt]: http://www.reichelt.de
