@@ -1,6 +1,7 @@
 hw-ble112-beacon
 ================
 
+This project is untested, yet!
 This is a minimal beacon pcb for the BLE112 module
 
 ## BOM
