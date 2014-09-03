@@ -1,13 +1,11 @@
 hw-ble112-beacon
 ================
 
-!!! This project is untested, yet! !!!
-
 This is a minimal beacon pcb for the BLE112 module.
 
 ![Top](beacon_1551G_top.png "Top")
 
-Render for the cased version from DirtyPCB
+Render for the cased version from [DirtyPCB][dirtypcb]
 
 
 ## BOM
@@ -30,4 +28,5 @@ Render for the cased version from DirtyPCB
 [mouser]: http://mouser.com
 [aliexpress]: http://www.aliexpress.com
 
+[dirtypcb]: http://dirtypcbs.com
 [itead-pcb]: http://imall.iteadstudio.com/open-pcb/pcb-prototyping.html
