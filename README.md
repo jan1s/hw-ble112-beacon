@@ -3,7 +3,13 @@ hw-ble112-beacon
 
 This is a minimal beacon pcb for the BLE112 module.
 
-![Top](beacon_1551G_top.png "Top")
+
+![Top](docu/beacon_top.png "Top")
+
+Render for the uncased version from [DirtyPCB][dirtypcb]
+
+
+![Top](docu/beacon_1551G_top.png "Top")
 
 Render for the cased version from [DirtyPCB][dirtypcb]
 
